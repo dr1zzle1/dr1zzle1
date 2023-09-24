@@ -1,6 +1,6 @@
 # 👋🏻 Hi, my name is **Marat Valiev**
 
-## I'm a beginner Front-end developer
+## I'm a Junior Front-end developer
 
 ### Languages and Technologies
 
