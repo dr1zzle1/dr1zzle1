@@ -1,6 +1,6 @@
-# 👋🏻 Hi, my name is **Marat Valiev**
+# 👋🏻 Hi, my name is **Marat**
 
-## I'm a Junior Front-end developer
+## I'm a Front-end developer
 
 ### Languages and Technologies
 
@@ -14,6 +14,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dr1zzle1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🌐 Telegram: @dr1zzle
+### 🌐 Telegram: @drzz_12
 
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript) -->
